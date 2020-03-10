@@ -5,7 +5,7 @@
 
   <v-app-bar app>
     <!-- -->
-    <h1>Ahalya</h1>
+    <h1>Weather Prediction</h1>
   </v-app-bar>
 
   <!-- Sizes your content based upon application components -->
